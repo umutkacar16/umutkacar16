@@ -15,5 +15,5 @@
 ![Umut'un GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=umutkacar16&show_icons=true&theme=tokyonight)
 
 ### 📫 Bana Ulaşın
-- **LinkedIn:** [linkedin.com/in/umutkacar](https://linkedin.com/in/umutkacar) (Kendi linkini ekle)
-- **E-posta:** umutkacar@email.com (Kendi e-postanı ekle)
+- **LinkedIn: https://www.linkedin.com/in/umut-kaçar/
+- **E-posta: umutkacar1016@gmail.com
