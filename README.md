@@ -1,4 +1,4 @@
-# Selam, ben Umut! 👋
+# Selam, ben Umut! 
 
 ### 🎓 Hakkımda
 - **Kocaeli Sağlık ve Teknoloji Üniversitesi** (KOSTÜ) Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.
