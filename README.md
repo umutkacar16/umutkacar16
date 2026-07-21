@@ -11,8 +11,6 @@
 - **Kütüphaneler:** Pandas, NumPy, Matplotlib, yfinance
 - **Araçlar:** SQLite, n8n, Git & GitHub, VS Code
 
-### 📊 GitHub İstatistiklerim
-![Umut'un GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=umutkacar16&show_icons=true&theme=tokyonight)
 
 ### 📫 Bana Ulaşın
 - **LinkedIn: https://www.linkedin.com/in/umut-kaçar/
