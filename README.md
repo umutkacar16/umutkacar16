@@ -3,7 +3,7 @@
 ### 🎓 Hakkımda
 - **Kocaeli Sağlık ve Teknoloji Üniversitesi** (KOSTÜ) Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.
 - 2027 Haziran ayında mezun olmayı hedefliyorum.
-- **Veri Bilimi**, **Python Otomasyonları** (n8n) ve **Yazılım Geliştirme** ile ilgileniyorum.
+- **Veri Bilimi**, **otomasyon**  ve **Yazılım Geliştirme** ile ilgileniyorum.
 
 ### 🛠️ Teknolojiler & Araçlar
 
