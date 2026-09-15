@@ -1,7 +1,7 @@
 # Selam, ben Umut! 
 
 ### 🎓 Hakkımda
-- **Kocaeli Sağlık ve Teknoloji Üniversitesi** (KOSTÜ) Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.
+- **Kocaeli Sağlık ve Teknoloji Üniversitesi** (KOSTÜ) Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.
 - 2027 Haziran ayında mezun olmayı hedefliyorum.
 - **Veri Bilimi**, **Otomasyon**  ve **Yazılım Geliştirme** ile ilgileniyorum.
 
